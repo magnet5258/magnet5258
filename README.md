@@ -15,9 +15,17 @@
 
 ---
 
-## 📈 Baekjoon Online Judge (BOJ)
+## 📈 Algorithm Problem Solving
 
-![Baekjoon tier](https://mazassumnida.wtf/api/generate_badge?boj=magnet0922)
+![Baekjoon tier](https://mazassumnida.wtf/api/generate_badge?boj=magnet0922)  
+[![solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=magnet0922)](https://solved.ac/profile/magnet0922)
+
+---
+
+## 🧮 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=magnet5258&show_icons=true&hide=stars&theme=default)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magnet5258&layout=compact)
 
 ---
 
